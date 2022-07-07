@@ -2,7 +2,7 @@ Attribute VB_Name = "Module1"
 Sub VBACHALLENGE()
 
     ' https://www.youtube.com/watch?v=AlC8a7KyJq0&t=189s
-    ' The below code was inspired by the above video, retrieved on 07/01/22
+    ' The following code was inspired by the above video, retrieved on 07/01/22
     Dim ws As Integer
         ws = Application.Worksheets.Count
 
