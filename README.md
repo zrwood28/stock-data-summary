@@ -1,4 +1,4 @@
-# VBA-challenge
+# stock-data-summary
 Summarized stock market data over multiple years.
 
 ## Contents
